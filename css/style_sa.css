@@ -1,0 +1,30 @@
+fieldset{
+    width: 600px;
+    border-radius: 10px;
+    border: solid grey 1px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(235, 235, 235);
+}
+#body_layout{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+footer{
+    background-color:rgb(69, 192, 230);
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-color: skyblue;
+}
